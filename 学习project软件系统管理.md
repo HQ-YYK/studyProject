@@ -250,3 +250,32 @@
 >整个资源在项目周期里面整个负荷情况
 
 ![image-20220305211936270](/Users/l/Library/Application Support/typora-user-images/image-20220305211936270.png)
+
+### 资源使用状况视图
+
+>资源计划
+
+- 插入一列叫“成本”
+- 在右边的视图里面显示“成本字段”（右键）
+
+### 报表、可视报表---（报表选择卡-查看报表-成本）
+
+>展示成本
+
+- 报表
+
+  ![image-20220305213736078](/Users/l/Library/Application Support/typora-user-images/image-20220305213736078.png)
+
+- 可视报表
+
+  >编制的计划的数据进行相关整理以Excel形式整理出来
+
+
+
+## 项目统计信息--（项目-属性左边第一个项目信息-左下脚统计信息）
+
+![image-20220306120348024](/Users/l/Library/Application Support/typora-user-images/image-20220306120348024.png)
+
+### 基线
+
+>项目编制完成之后，一旦计划得到批准，工作基准
